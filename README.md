@@ -3,4 +3,32 @@ Here I have created a gaming store website which helps users find and play inter
 ### My WebSite Link -  https://agreeable-mushroom-05ab2b310.3.azurestaticapps.net
 
 ## Homepage
-![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/27a48dc0-b23f-44a9-a26d-3234981804a0)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/dc1c1e6c-75d6-4ed8-96b5-c09747f38bef)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/3514e164-1ed6-40b1-a718-c38298e4d741)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/6476cc97-79a3-4156-b0fc-018696c6191f)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/2d6391cf-f5f2-42a7-9af5-0f6a1d60ccae)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/5e0097e9-971b-489a-a09e-2841d0d70f8f)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/eaf3a4ee-7df7-4661-84c2-cd70929b5235)
+
+
+
+
+## About
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/6067d4c0-65d7-4eed-812d-73a0a01567a7)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/4e5bdaf0-be02-4014-b9e2-6d9e2718f275)
+
+## Services
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/9af22308-1d4a-40d8-8646-7b9421f16c30)
+
+
+## Contact
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/132b894e-5c09-4b27-8069-40100c3a579a)
+
+## Chatbot 
+
+## Telegram Bot ScreenShots
+
+## Youtube Video about my project
+
+## Azure portal Screenshots
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/33d94de9-30f1-42ac-b9d6-93c0b459f048)
