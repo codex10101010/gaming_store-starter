@@ -1,7 +1,10 @@
 # Future Ready Talent Project By Viraj Pawar 
 Here I have created a gaming store website which helps users find and play interactive and cool games on this website. I have also deployed a bot on telegram for answering general questions regarding the website
 ### My WebSite Link -  https://agreeable-mushroom-05ab2b310.3.azurestaticapps.net
-
+### My Telegram Bot name - GameStore2023_Bot
+In this website I have used html css javascript and bootstrap to develop this website and make it more userfriendly and interactive
+I have also developed a bot application on telegram to resolve the most commonly asked questions regarding this website
+the bot acts as an faq service which helps the website gain more traffic and engage with other gaming communities which help increase the outreach of the website
 ## Homepage
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/dc1c1e6c-75d6-4ed8-96b5-c09747f38bef)
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/3514e164-1ed6-40b1-a718-c38298e4d741)
