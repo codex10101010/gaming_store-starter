@@ -25,8 +25,13 @@ Here I have created a gaming store website which helps users find and play inter
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/132b894e-5c09-4b27-8069-40100c3a579a)
 
 ## Chatbot 
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/15e2a142-77e5-4a56-ae1c-cf2f571823da)
+
 
 ## Telegram Bot ScreenShots
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/5bfc0ec2-8d22-4dc2-ac1c-dcd7db16fc8b)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/a9f82419-8ee3-4f11-8c0d-67817af1ff39)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/ad850b86-cebf-40fa-bba8-9e9e4363b08b)
 
 ## Youtube Video about my project
 
