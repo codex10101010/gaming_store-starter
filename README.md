@@ -37,6 +37,7 @@ the bot acts as an faq service which helps the website gain more traffic and eng
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/ad850b86-cebf-40fa-bba8-9e9e4363b08b)
 
 ## Youtube Video about my project
+https://www.youtube.com/watch?v=NrtUy7bQLoY
 
 ## Azure portal Screenshots
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/33d94de9-30f1-42ac-b9d6-93c0b459f048)
