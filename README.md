@@ -23,6 +23,7 @@ the bot acts as an faq service which helps the website gain more traffic and eng
 ## Services
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/9af22308-1d4a-40d8-8646-7b9421f16c30)
 
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/c9d262b8-b488-47b0-9c3d-d76e535ae9d1)
 
 ## Contact
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/132b894e-5c09-4b27-8069-40100c3a579a)
