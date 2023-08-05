@@ -1,7 +1,7 @@
 # Future Ready Talent Project By Viraj Pawar 
 
 Here I have created a gaming store website which helps users find and play interactive and cool games on this website. I have also deployed a bot on the website for answering general questions regarding the website
-### My WebSite Link -  https://proud-forest-0312aa400.3.azurestaticapps.net
+### My WebSite Link -  https://victorious-pebble-09e27f200.3.azurestaticapps.net
 In this website I have used html css javascript and bootstrap to develop this website and make it more userfriendly and interactive
 I have also developed a bot application on the website to resolve the most commonly asked questions regarding this website
 the bot acts as an faq service which helps the website gain more traffic and engage with other gaming communities which help increase the outreach of the website
