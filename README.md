@@ -28,12 +28,13 @@ the bot acts as an faq service which helps the website gain more traffic and eng
 ![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/132b894e-5c09-4b27-8069-40100c3a579a)
 
 ## Chatbot 
-![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/15e2a142-77e5-4a56-ae1c-cf2f571823da)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/98d5b147-2aa1-4a71-b0ed-c2041fabe917)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/8e52f40a-b5e4-4da0-b897-c5479a6fb2ce)
 
 
 
 ## Youtube Video about my project
-https://www.youtube.com/watch?v=NrtUy7bQLoY
+
 
 ## Azure portal Screenshots
-![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/33d94de9-30f1-42ac-b9d6-93c0b459f048)
+![image](https://github.com/codex10101010/gaming_store-starter/assets/95994221/0aa432fa-a4b0-4dca-b83d-de49223e9ac6)
